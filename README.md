@@ -46,7 +46,7 @@ Script Python para realizar backups automatizados de repositórios do GitLab, co
    GITLAB_URL=https://seu-gitlab-server.com/
    GITLAB_TOKEN=seu_token_pessoal_aqui
    GITLAB_GROUP_IDS=123;456;789
-   BACKUP_BASE_DIR=/caminho/para/backups
+   BACKUP_BASE_DIR=/ caminho/para/backups
    ```
 
 ## 🎯 Como Usar
